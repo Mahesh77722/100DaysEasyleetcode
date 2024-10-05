@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("100DaysEasyLeetCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07cbd4154453739742e1876cc4744169f5812a37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b7d97b24f02a9f676836c85719ab2f92df51ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("100DaysEasyLeetCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("100DaysEasyLeetCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
